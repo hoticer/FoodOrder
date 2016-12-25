@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+
+	<named-config name="javawebapp">
+		<property name="user">root</property>
+		<property name="password">zxc123</property>
+		<property name="driverClass">com.mysql.jdbc.Driver</property>
+		<property name="jdbcUrl">jdbc:mysql:///ordering</property>
+		
+		<property name="acquireIncrement">5</property>
+		<property name="initialPoolSize">10</property>
+		<property name="minPoolSize">10</property>
+		<property name="maxPoolSize">50</property>
+		<!-- 反空闲 :每60秒检查所有连接池中的空闲连接。Default: 0 -->
+		<property name="idleConnectionTestPeriod">60</property>
+
+		<!-- intergalactoApp adopts a different approach to configuring statement 
+			caching -->
+		<property name="maxStatements">20</property>
+		<property name="maxStatementsPerConnection">5</property>
+
+	</named-config>
+</c3p0-config>
