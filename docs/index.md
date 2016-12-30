@@ -6,3 +6,6 @@
 3. 老板进入后台可以进行食物管理,用户管理,核对账单,生成桌码四个操作.
 
 具体实现可查看链接 [餐馆前台](http://ablazeice.cn/ordering/index1.jsp) 和 [餐馆后台](http://ablazeice.cn/ordering/ht.jsp).
+
+![][1]
+[1]: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
