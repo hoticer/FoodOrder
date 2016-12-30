@@ -7,5 +7,5 @@
 
 具体实现可查看链接 [餐馆前台](http://ablazeice.cn/ordering/index1.jsp) 和 [餐馆后台](http://ablazeice.cn/ordering/ht.jsp).
 
-![][1]
-[1]: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
+
+
