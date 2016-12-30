@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到餐馆点菜系统
 
-You can use the [editor on GitHub](https://github.com/hoticer/FoodOrder/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hoticer/FoodOrder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###业务流程
+（1）顾客扫码进入前台后,选取想吃的菜加入购物车中,然后可以进入购物车对	所选菜进行增加删除操作.确定点菜下订单.
+（2）服务员登录后台后,可以实时接收到最新的订单消息,每个服务员负责4	个桌.接单后当所有菜上完即可改变订单状态为已上菜.于是顾客吃完到柜台结	账,结账员结账并改变顾客的订单状态为已结账.
+ (3)老板进入后台可以进行食物管理,用户管理,核对账单,生成桌码四个操作.
